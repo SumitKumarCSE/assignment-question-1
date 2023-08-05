@@ -25,3 +25,9 @@
 5. Done automatically when done with above parts.
    
 6. For this I made a handleClick function which pass data to selectedorder.
+
+**Changes done in these files**
+
+<a href="https://github.com/SumitKumarCSE/assignment-question-1/blob/main/src/pages/Dashboard.jsx" target="_blank"> Dashboard </a>
+
+<a href="https://github.com/SumitKumarCSE/assignment-question-1/blob/main/src/component/list/List.jsx" target="_blank"> List </a>
